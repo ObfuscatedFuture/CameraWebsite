@@ -1,21 +1,49 @@
-
-body
-{
-    background-color:#00171F;
-
-}
+/* Color Palette */
+/* #000000 (Black), #66666E (Grey), #9999A1 (Manatee), #E6E6E9 (Platinum), #F4F4F6 (Off-white) */
 .header
 {
     text-align: center;
     font-style: normal;
     font-family:Arial, Helvetica, sans-serif;
-    
+    color: #D9C5B2;
 }
 .map
 {
     position: absolute;
     height: 80%;
     width: 80%;
-    padding-left: 10%;
-    padding-right: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+body
+{
+    height: 100%;
+    width: 100%;
+    background-color: #1d1d1d;
+    background-image: radial-gradient(circle at center, #1f1f1f 0%, #14110F 100%);
+}
+.navbar
+{
+    background-color:rgb(22, 22, 22);
+    overflow: hidden;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.navbar a
+{
+    color: #a5a5a5;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    float:left;
+    padding: 14px 16px;
+}
+.navbar a:hover
+{
+    font-weight: bold;
+    background-color:#292623;
+}
+.navbar a.active
+{
+    background-color:#34312D;
+    color: #a5a5a5;
 }
