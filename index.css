@@ -50,3 +50,61 @@ body
     color: #dbdad9;
     text-decoration: none;
 }
+#activity
+{
+    width: 30%;
+    height: 20%;
+
+    min-height:20%;
+    min-width: 30%;
+
+    margin-bottom: 24px;
+    background-color: #34312D;
+    
+
+    border-style: solid;
+    border-width: 2px;
+    border-color:#dbdad9;
+    border-radius: 8px;
+    padding: 8px;
+    
+    color: #dbdad9;
+}
+.titlebar
+{
+    width: 65%;
+    height: 10%;
+
+    background-color: #34312D;
+    
+    margin-left: 15%;
+
+    border-style: solid;
+    border-width: 2px 2px 0px 2px;
+    
+    border-color:#dbdad9;
+    border-radius: 8px;
+    padding: 8px;
+    
+    color: #dbdad9;
+}
+.activity1
+{
+    display:inline;
+    margin-left: 15%;
+}
+.activity2
+{
+    display:inline;
+    margin-right: 15%;
+}
+.activity3
+{
+    display:inline;
+    margin-left: 15%;
+}
+.activity4
+{
+    display:inline;
+    margin-right: 15%;
+}
