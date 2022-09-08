@@ -1,1 +1,1 @@
-Update website with new files + new commit to github
+Home links incorrects to More Projects (change link path)
