@@ -1,3 +1,1 @@
-Get 404 page working
-Make webscrapper for github profile
-Dynamically update website with github profile data
+Update website with new files + new commit to github
