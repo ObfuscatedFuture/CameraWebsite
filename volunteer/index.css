@@ -42,28 +42,6 @@ body
     color: #dbdad9;
     text-decoration: none;
 }
-.navbar a
-{
-    color: #dbdad9;
-    font-family: Arial, Helvetica, sans-serif;
-    font-style: normal;
-    float:left;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-.navbar a:hover
-{
-    font-weight: bold;
-    background-color:#292623;
-    text-decoration: none;
-    color:rgb(192, 192, 192);
-}
-.navbar a.active
-{
-    background-color:#34312D;
-    color: #dbdad9;
-    text-decoration: none;
-}
 .grid-container {
     
     grid-template-columns: auto auto auto;
